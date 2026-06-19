@@ -1,0 +1,12 @@
+{
+  "name": "discord-anti-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that auto-kicks suspected botted accounts spamming images across channels",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
